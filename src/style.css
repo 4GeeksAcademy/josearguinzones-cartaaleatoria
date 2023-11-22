@@ -1,1 +1,18 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: green;
+}
+.container {
+  background-color: white;
+  margin-top: 100px;
+  width: 30%;
+  border-radius: 10px;
+}
+#palo {
+  margin-right: 50%;
+}
+#numero {
+}
+#palo2 {
+  margin-left: 50%;
+}
